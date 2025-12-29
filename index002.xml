@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>我的私人訊息站</title>
+  <link>https://你的帳號.github.io/my-rss/</link>
+  <description>這裡是我發布個人文字訊息的地方</description>
+  <language>zh-tw</language>
+  <atom:link href="https://你的帳號.github.io/my-rss/index.xml" rel="self" type="application/rss+xml" />
+
+  <item>
+    <title>第一則訊息</title>
+    <link>https://你的帳號.github.io/my-rss/</link>
+    <description>這是我手動發布的第一則 RSS 訊息內容。</description>
+    <pubDate>Mon, 29 Dec 2025 12:00:00 +0800</pubDate>
+    <guid>msg-2025-12-29-01</guid>
+  </item>
+</channel>
+</rss>
