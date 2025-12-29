@@ -8,12 +8,10 @@
   <atom:link href="https://kuochihchiang081-sketch.github.io/my-rss_002/index.xml" rel="self" type="application/rss+xml" />
 
   <item>
-    <title>第一則訊息</title>
+    <title>明天天氣／</title>
     <link>https://kuochihchiang081-sketch.github.io/my-rss_002/</link>
-	<description><![CDATA[
-<p>這裡是我發布個人</p>
-<p>文字訊息的地方。</p>
-]]></description>
+<description>
+寒流下周要來？氣象專家曝氣溫狂降「至少連凍10天」，跨年元旦降雨。氣象署表示，明（29）日各地氣溫略回升，但30日起氣溫逐日緩降，北部、東半部跨年夜為雲多偶有雨的天氣。</description>
     <pubDate>Mon, 29 Dec 2025 12:00:00 +0800</pubDate>
     <guid>msg-2025-12-29-01</guid>
   </item>
