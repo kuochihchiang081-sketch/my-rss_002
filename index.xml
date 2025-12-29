@@ -10,7 +10,10 @@
   <item>
     <title>第一則訊息</title>
     <link>https://kuochihchiang081-sketch.github.io/my-rss_002/</link>
-	<description><![CDATA[這裡是我發布個人<br/>文字訊息的地方。]]></description>
+	<description><![CDATA[
+<p>這裡是我發布個人</p>
+<p>文字訊息的地方。</p>
+]]></description>
     <pubDate>Mon, 29 Dec 2025 12:00:00 +0800</pubDate>
     <guid>msg-2025-12-29-01</guid>
   </item>
