@@ -1,9 +1,19 @@
 <rss version="2.0">
 <channel>
-<title>我的私人訊息站</title>
+<title>我的訊息站</title>
 <link>https://kuochihchiang081-sketch.github.io/my-rss_002/</link>
 <description>這裡是我發布個人文字訊息的地方</description>
 <language>zh-tw</language>
+<item>
+<title>科技業競逐宇宙／</title>
+<link>https://kuochihchiang081-sketch.github.io/my-rss/post1</link>
+<description>AI太耗電 算力新戰場離開地球。</description>
+<description>隨著火箭發射成本降低，加上太空太陽能發電的優勢，</description>
+<description>矽谷各新創公司競相於太空設置巨大資料中心。</description>
+<description>美國太空總署的最新月球著陸器固定在太空探索科技公司的獵鷹火箭上。|</description>
+<pubDate>Mon, 29 Dec 2025 12:00:01 +0800</pubDate>
+<guid>msg-2025-12-29-01</guid>
+</item>
 <item>
 <title>明天天氣</title>
 <link>https://kuochihchiang081-sketch.github.io/my-rss_002/</link>
